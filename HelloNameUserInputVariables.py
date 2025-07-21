@@ -1,5 +1,9 @@
-name = input("What is your name? ")
+name = input("What is your name? ")  #prompts user to input variable value
 print("Hello, " + name + "!")
+
+
+name = input("What is your name? ")  #prompts user to input variable value
+print(f"Hello, {name}!")    #prints same value as above but better way to get there
 
 #more user input variables
 
