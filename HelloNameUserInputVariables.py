@@ -9,4 +9,4 @@ print(f"Hello, {name}!")    #prints same value as above but better way to get th
 
 name = input("What is your name? ")
 age = input("What is your age? ")
-print("Hello, " + name + "! " + "You are " + age)
+print(f"Hello, {name}! You are {age})
