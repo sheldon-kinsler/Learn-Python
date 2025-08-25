@@ -1,4 +1,4 @@
-pip install translate #install the library for translating
+pip install translate #install the dictionary for translating
 
 import translate
 from translate import Translator    #the specific library we need for this
