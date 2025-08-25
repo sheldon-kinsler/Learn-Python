@@ -1,7 +1,7 @@
 pip install translate #install the library for translating straight in your terminal
 
 import translate
-from translate import Translator    #the specific library we need for this
+from translate import Translator    #call the specific library we need for this
 
 translator = Translator(to_lang='it')  #creating the translator object. 'it' is Italian, but can put any language you want, like 'es' for Spanish
 
